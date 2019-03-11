@@ -1,7 +1,9 @@
 # Material Design - Chip Drawable
 Material Design UI Android Chip
-![Android Chip](https://github.com/milanrupapara/Material-Design_Chip-Drawable/blob/master/chipDrawble.gif)
 Chip Drawable contain Android Chip releted ui logic.
+
+![Android Chip](https://github.com/milanrupapara/Material-Design_Chip-Drawable/blob/master/chipDrawble.gif)
+
 
 Use Depedencies :
 
